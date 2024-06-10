@@ -1,2 +1,1 @@
-# uiElement
-React re-usable component library
+# React re-usablee Component Library
